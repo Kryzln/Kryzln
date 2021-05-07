@@ -8,3 +8,5 @@
 
 ###### UPDATE: We have released 5 releases, check them out before downloading! (May 6th, 2021)
 ###### UPDATE 2: We created our Kryzln tag! In order to download the file with the kryzln tag, goto where it says main, select tags, and then click kryzln!
+
+> The kryzln tag does nothing but give your zip file a cool name
