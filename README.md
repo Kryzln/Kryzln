@@ -1,12 +1,13 @@
-# -Welcome to Kryzln--
--Here is where you will learn what happens when you use our software--
+# Welcome to Kryzln
+Here is where you will learn what happens when you use our software
 
+## How to use Kryzln
+#### _You must
+> Download the .zip
+> Extract it
+> Go to files
+> Open KryzlnOpener.txt
+> KryzlnOpener.txt will tell kryzln to RUN
+> You will now have more luck in games
 
-
-
-## ***-Our software gives you luck in most games, it detects it via a AnyDesk pc link (you have to contact me via email to whitelist it) or by a special file that whitelists your ip)***
-
-###### UPDATE: We have released 5 releases, check them out before downloading! (May 6th, 2021)
-###### UPDATE 2: We created our Kryzln tag! In order to download the file with the kryzln tag, goto where it says main, select tags, and then click kryzln!
-
-> The kryzln tag does nothing but give your zip file a cool name
+## ***Our software gives you luck in most games,You must get whitelisted by a special file that whitelists your ip, email me for it.***
