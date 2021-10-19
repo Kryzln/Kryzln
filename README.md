@@ -2,7 +2,7 @@
 Here is where you will learn what happens when you use our software
 
 ## How to use Kryzln
-#### _You must
+#### You must
 > Download the .zip
 > Extract it
 > Go to files
