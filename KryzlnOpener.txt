@@ -1,0 +1,7 @@
+﻿Welcome to KryzlnOpener
+We will check if you're whitelisted.
+If you aren’t, Kryzln will do nothing.
+If you are, Kryzln will run in the background.
+
+
+If you aren’t whitelisted, you need to email my backup email logandoges@gmail.com
